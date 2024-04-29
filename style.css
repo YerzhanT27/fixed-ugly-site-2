@@ -22,7 +22,7 @@ h1{
 .hero{
     margin: 0;
     background-color: #492E87;
-    color: goldenrod;
+    color: purple;
     height: 40vh;
     display: flex;
 }
